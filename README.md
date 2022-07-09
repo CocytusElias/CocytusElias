@@ -1,7 +1,7 @@
 # 👋 Eliassama's self-introduction 
 
 + A full stack developer based in Hangzhou, but mostly backend development.
-+ I mainly use Node And Go as the language. I have developed some programs using Python before, and I can read Java code.
++ I mainly use Node And Go as the main language. I have developed some programs using Python before, and I can read Java code.
 + Has some code cleanliness fetishes.
 + A practitioner of agile development, trying to use Fp
 + Has his own private server and often uses it to build things
